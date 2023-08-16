@@ -1,0 +1,137 @@
+[
+  1,
+  [
+    "50YblVyZFOub6IFQmoyV6M",
+    "17w0Mv7tlD/Ir25d4CSYkL",
+    "399FO9siZGP7A4e7UfP1nA"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "img_icon_charge",
+          "rect": [
+            0,
+            0,
+            218,
+            242
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            218,
+            242
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "img_icon_match",
+          "rect": [
+            0,
+            0,
+            218,
+            242
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            218,
+            242
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "img_icon_exchange",
+          "rect": [
+            0,
+            0,
+            218,
+            242
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            218,
+            242
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ]
+  ]
+]

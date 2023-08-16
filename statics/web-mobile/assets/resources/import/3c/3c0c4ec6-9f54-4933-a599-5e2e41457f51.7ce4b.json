@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "2bouhkyrBBdY7R09vxIcr6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "light",
+      "rect": [
+        6,
+        3,
+        772,
+        382
+      ],
+      "offset": [
+        -120,
+        62
+      ],
+      "originalSize": [
+        1024,
+        512
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

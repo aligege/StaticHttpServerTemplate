@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "45TkZ9RGJFNavor0KpUXpl"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_search",
+      "rect": [
+        0,
+        0,
+        37,
+        36
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        38,
+        36
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

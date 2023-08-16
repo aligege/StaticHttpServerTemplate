@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5a9VvqQgtEGrLMC/NDNq0x"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_item_500",
+      "rect": [
+        0,
+        0,
+        262,
+        130
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        262,
+        130
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

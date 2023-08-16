@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "52sjQvSyZIWpWIspWDoMZ2"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_fail_share3",
+      "rect": [
+        0,
+        0,
+        1500,
+        2668
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1500,
+        2668
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

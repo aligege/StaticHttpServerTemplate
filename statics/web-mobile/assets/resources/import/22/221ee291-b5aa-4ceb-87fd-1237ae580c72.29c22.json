@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "82KtFnCAVG1bbqYLC8mRZf"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_noprize3",
+      "rect": [
+        0,
+        0,
+        1500,
+        2668
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        1500,
+        2668
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

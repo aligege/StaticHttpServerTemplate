@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "d0pWfDdERP14vaEniBbOYl"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_top_match",
+      "rect": [
+        0,
+        0,
+        218,
+        242
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        218,
+        242
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

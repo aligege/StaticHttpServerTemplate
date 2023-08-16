@@ -1,0 +1,52 @@
+[
+  1,
+  [
+    "1d7e9a32c"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "chipbg_self",
+      "rect": [
+        987,
+        3,
+        106,
+        34
+      ],
+      "offset": [
+        1.5,
+        -1
+      ],
+      "originalSize": [
+        109,
+        36
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

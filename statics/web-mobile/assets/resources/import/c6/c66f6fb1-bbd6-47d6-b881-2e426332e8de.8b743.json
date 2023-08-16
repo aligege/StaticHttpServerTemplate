@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e7EjijbuFAW4r+L4knJeEn"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_arrow_down",
+      "rect": [
+        1,
+        0,
+        21,
+        12
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        22,
+        12
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "5bFWfBa/hEkYhXYMtbadZr"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_withdraw",
+      "rect": [
+        1,
+        0,
+        13,
+        20
+      ],
+      "offset": [
+        0.5,
+        0
+      ],
+      "originalSize": [
+        14,
+        20
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

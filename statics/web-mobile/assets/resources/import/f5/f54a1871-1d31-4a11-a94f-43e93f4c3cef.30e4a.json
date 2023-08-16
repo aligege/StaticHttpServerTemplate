@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "98ilJjunNKmJ/E9vnzPswC"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_raise_bg",
+      "rect": [
+        1,
+        0,
+        54,
+        23
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        56,
+        24
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

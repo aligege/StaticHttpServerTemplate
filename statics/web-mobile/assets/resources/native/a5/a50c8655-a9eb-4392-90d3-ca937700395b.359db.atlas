@@ -1,0 +1,20 @@
+
+click.png
+size: 402,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+click01
+  rotate: false
+  xy: 202, 2
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+click02
+  rotate: false
+  xy: 2, 2
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1

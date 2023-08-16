@@ -1,0 +1,41 @@
+
+count.png
+size: 135,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zy/1
+  rotate: true
+  xy: 2, 2
+  size: 28, 82
+  orig: 28, 82
+  offset: 0, 0
+  index: -1
+zy/2
+  rotate: false
+  xy: 2, 32
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+zy/3
+  rotate: false
+  xy: 73, 119
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+zy/4
+  rotate: false
+  xy: 2, 117
+  size: 69, 85
+  orig: 69, 85
+  offset: 0, 0
+  index: -1
+zy/5
+  rotate: false
+  xy: 64, 33
+  size: 57, 82
+  orig: 57, 82
+  offset: 0, 0
+  index: -1

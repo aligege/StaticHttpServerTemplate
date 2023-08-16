@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "ffmCcVwDdMq4RFGYIt73cD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_auth",
+      "rect": [
+        0,
+        0,
+        300,
+        92
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        300,
+        92
+      ],
+      "capInsets": [
+        51,
+        0,
+        43,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

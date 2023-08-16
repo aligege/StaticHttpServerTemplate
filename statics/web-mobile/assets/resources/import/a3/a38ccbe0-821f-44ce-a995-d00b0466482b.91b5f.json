@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "4bzk/ASX9PLoLCEx25BgyY"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_sign",
+      "rect": [
+        0,
+        1,
+        418,
+        265
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        418,
+        266
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

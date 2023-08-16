@@ -1,0 +1,31 @@
+{
+    "third_cfg":
+    {
+    },
+    "local_host":"127.0.0.1",
+    "internet_host":"127.0.0.1",
+    "db":
+    {
+    },
+    "webserver":
+    {
+        "port":8080,
+        "cache":{},
+        "debug":true,
+        "web_name":"admin",
+        "cookie":
+        {
+            "prefix":"account_cookie_",
+            "expires":
+            {
+                "account_remember": 604800,
+                "account": 3600
+            }
+        },
+        "routs":
+        {
+            "onlyModule":"admin",
+            "defaults": { "module":"admin","controller" : "admin", "action" : "Index"}
+        }
+    }
+}

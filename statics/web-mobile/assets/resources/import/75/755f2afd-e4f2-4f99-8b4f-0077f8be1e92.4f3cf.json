@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "fa/69GEpZP06ffVGjNJ1vy"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_network_mobile",
+      "rect": [
+        0,
+        0,
+        18,
+        12
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        18,
+        12
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

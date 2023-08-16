@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "32rx6FM09OnJZ2w3CCwDkp"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_search_bg",
+      "rect": [
+        0,
+        0,
+        111,
+        62
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        112,
+        62
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

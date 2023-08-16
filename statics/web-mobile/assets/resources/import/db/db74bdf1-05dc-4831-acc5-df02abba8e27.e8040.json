@@ -1,0 +1,52 @@
+[
+  1,
+  [
+    "1d7e9a32c"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "bg-chipin",
+      "rect": [
+        270,
+        823,
+        30,
+        31
+      ],
+      "offset": [
+        0,
+        -0.5
+      ],
+      "originalSize": [
+        30,
+        32
+      ],
+      "rotated": 1,
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

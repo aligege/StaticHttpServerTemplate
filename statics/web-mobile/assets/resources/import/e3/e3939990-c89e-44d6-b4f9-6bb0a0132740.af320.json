@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "71UBDVqilNX4e0vbJFLhA6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_sign_bg",
+      "rect": [
+        0,
+        0,
+        666,
+        446
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        666,
+        446
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

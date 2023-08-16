@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "3aidl6o49Hd6Bdp5XWjaKI"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "reviewbg",
+      "rect": [
+        0,
+        0,
+        406,
+        1334
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        406,
+        1334
+      ],
+      "capInsets": [
+        156,
+        133,
+        95,
+        219
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

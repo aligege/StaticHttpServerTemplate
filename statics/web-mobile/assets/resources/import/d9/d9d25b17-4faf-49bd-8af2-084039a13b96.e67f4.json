@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "51qEWQYCpBKr1m00236yPw"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_reward_coin",
+      "rect": [
+        10,
+        14,
+        54,
+        54
+      ],
+      "offset": [
+        0,
+        -4
+      ],
+      "originalSize": [
+        74,
+        74
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

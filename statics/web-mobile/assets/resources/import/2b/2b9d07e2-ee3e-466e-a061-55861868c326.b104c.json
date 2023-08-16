@@ -1,0 +1,35 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "dragonBones.DragonBonesAsset",
+      [
+        "_name",
+        "_dragonBonesJson"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "loading_ske",
+      "{\"frameRate\":60,\"name\":\"loading\",\"version\":\"5.5\",\"compatibleVersion\":\"5.5\",\"armature\":[{\"type\":\"Armature\",\"frameRate\":60,\"name\":\"armatureName\",\"aabb\":{\"x\":-51,\"y\":-51,\"width\":102,\"height\":102},\"bone\":[{\"name\":\"root\"},{\"inheritScale\":false,\"name\":\"Layer1\",\"parent\":\"root\"},{\"inheritScale\":false,\"name\":\"Layer2\",\"parent\":\"root\"}],\"slot\":[{\"name\":\"Layer1\",\"parent\":\"Layer1\"},{\"name\":\"Layer2\",\"parent\":\"Layer2\"}],\"skin\":[{\"slot\":[{\"name\":\"Layer2\",\"display\":[{\"name\":\"jiazai007\"}]},{\"name\":\"Layer1\",\"display\":[{\"name\":\"jiazai006\"}]}]}],\"animation\":[{\"duration\":60,\"playTimes\":0,\"name\":\"animation\",\"bone\":[{\"name\":\"Layer2\",\"rotateFrame\":[{\"duration\":60,\"tweenEasing\":0},{\"duration\":0,\"rotate\":90}]}]}],\"defaultActions\":[{\"gotoAndPlay\":\"animation\"}]}]}"
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

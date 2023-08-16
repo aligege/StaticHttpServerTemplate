@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "22DUJpZXNPdZ27qP0DhCVW"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "click",
+      "rect": [
+        2,
+        2,
+        142,
+        142
+      ],
+      "offset": [
+        -1,
+        1
+      ],
+      "originalSize": [
+        148,
+        148
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "0fA6nydJxCToMQ9FoxpqtJ"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_invite",
+      "rect": [
+        0,
+        0,
+        530,
+        944
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        531,
+        944
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

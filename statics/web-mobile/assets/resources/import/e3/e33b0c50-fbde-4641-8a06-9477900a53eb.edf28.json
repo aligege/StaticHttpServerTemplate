@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "7cRz8lVpBItIEXrhXlzEHl"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_prop_coin",
+      "rect": [
+        10,
+        14,
+        66,
+        66
+      ],
+      "offset": [
+        0,
+        -4
+      ],
+      "originalSize": [
+        86,
+        86
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

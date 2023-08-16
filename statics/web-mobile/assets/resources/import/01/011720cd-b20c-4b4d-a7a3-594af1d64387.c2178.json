@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "f7dwtadndE2Zd3KLLJa/r/"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "img_share_mask",
+      "rect": [
+        0,
+        0,
+        498,
+        882
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        498,
+        882
+      ],
+      "capInsets": [
+        50,
+        50,
+        50,
+        50
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

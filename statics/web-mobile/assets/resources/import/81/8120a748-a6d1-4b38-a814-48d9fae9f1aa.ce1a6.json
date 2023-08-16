@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "9c+0rkDUJGyov9c8zb8h6G"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "logo_mask",
+      "rect": [
+        0,
+        0,
+        68,
+        68
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        68,
+        68
+      ],
+      "capInsets": [
+        14,
+        12,
+        16,
+        18
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

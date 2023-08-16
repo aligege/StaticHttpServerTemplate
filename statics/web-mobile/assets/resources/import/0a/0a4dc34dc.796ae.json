@@ -1,0 +1,178 @@
+[
+  1,
+  [
+    "77ri49tpxBy7mALUXAKJXO",
+    "3bNZk7UrxBgJEfzQ/v+7l3",
+    "9f3LXU+ZNE0LWZtxcE032e",
+    "92WLqtZf9MlYCBzd5FzYEA"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "sliderraise1",
+          "rect": [
+            0,
+            0,
+            156,
+            79
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            156,
+            79
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "btn_slider_bg",
+          "rect": [
+            0,
+            0,
+            106,
+            37
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            106,
+            37
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ],
+    [
+      [
+        {
+          "name": "sliderbg",
+          "rect": [
+            0,
+            0,
+            78,
+            319
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            78,
+            319
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        2
+      ]
+    ],
+    [
+      [
+        {
+          "name": "slider",
+          "rect": [
+            0,
+            0,
+            78,
+            319
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            78,
+            319
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        3
+      ]
+    ]
+  ]
+]

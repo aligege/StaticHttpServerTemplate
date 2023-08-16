@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "a6im9MIBhJL5/6iHXbMZKF"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btn_more",
+      "rect": [
+        0,
+        0,
+        85,
+        62
+      ],
+      "offset": [
+        -0.5,
+        0
+      ],
+      "originalSize": [
+        86,
+        62
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

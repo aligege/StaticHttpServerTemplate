@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "4dUhntWCNGvZ4PE7F4DmSa"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "jg_tex",
+      "rect": [
+        1,
+        1,
+        2044,
+        3874
+      ],
+      "offset": [
+        -1,
+        110
+      ],
+      "originalSize": [
+        2048,
+        4096
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]
